@@ -7,7 +7,7 @@ void setup() {
 
 void loop() {
   digitalWrite(LED_BUILTIN, LOW);   // LOW = включить (активный низкий уровень) [citation:10]
-  delay(500);                       // Ждём 500 миллисекунд
+  delay(1000);                       // Ждём 500 миллисекунд
   digitalWrite(LED_BUILTIN, HIGH);  // HIGH = выключить
-  delay(500);                       // Ждём 500 миллисекунд
+  delay(1000);                       // Ждём 500 миллисекунд
 }
