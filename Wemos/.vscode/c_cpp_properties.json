@@ -10,7 +10,6 @@
             "includePath": [
                 "D:/Projects/PlatformIO/Aquascanner/Wemos/include",
                 "D:/Projects/PlatformIO/Aquascanner/Wemos/src",
-                "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial/src",
                 "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src",
                 "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src",
                 "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
@@ -43,6 +42,7 @@
                 "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/SPI",
                 "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/SPISlave/src",
                 "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/Servo/src",
+                "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial/src",
                 "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/TFT_Touch_Shield_V2",
                 "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker/src",
                 "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/Wire",
@@ -59,7 +59,6 @@
                 "path": [
                     "D:/Projects/PlatformIO/Aquascanner/Wemos/include",
                     "D:/Projects/PlatformIO/Aquascanner/Wemos/src",
-                    "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial/src",
                     "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src",
                     "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src",
                     "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
@@ -92,6 +91,7 @@
                     "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/SPI",
                     "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/SPISlave/src",
                     "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/Servo/src",
+                    "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial/src",
                     "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/TFT_Touch_Shield_V2",
                     "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker/src",
                     "C:/Users/dench/.platformio/packages/framework-arduinoespressif8266/libraries/Wire",
@@ -129,7 +129,7 @@
             ],
             "cStandard": "gnu17",
             "cppStandard": "gnu++17",
-            "compilerPath": "C:/Users/dench/.platformio/packages/toolchain-xtensa/bin/xtensa-lx106-elf-gcc.exe",
+            "compilerPath": "/home/gd_den/.platformio/packages/toolchain-xtensa/bin/xtensa-lx106-elf-gcc",
             "compilerArgs": [
                 "-mlongcalls",
                 "-mtext-section-literals",
